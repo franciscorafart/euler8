@@ -27,5 +27,5 @@ Find the thirteen adjacent digits in the 1000-digit number that have the greates
 
 1. Download files
 2. Go to project folder in your terminal
-3. run $node euler6.js
+3. run $node euler8.js
 4. Follow me on github!
